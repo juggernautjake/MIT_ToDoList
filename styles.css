@@ -13,13 +13,13 @@ body {
   }
   
   .app {
-    background: #209cee;
+    background: #56b892;
     padding: 30px;
     height: 100vh;
   }
   
   .todo-list {
-    background: #e8e8e8;
+    background: #4b0e9b;
     border-radius: 4px;
     padding: 5px;
     max-width: 400px;
